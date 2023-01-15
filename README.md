@@ -1,3 +1,7 @@
+# Deployments
+Goerli: 0x50EED4491Eb4634E0ef53751cF280417829Db45E
+Mumbai: 0x602db5f1bD188BCeF8F68190C65f87ccD3a0E11C
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
