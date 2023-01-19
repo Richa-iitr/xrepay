@@ -1,6 +1,6 @@
 # Deployments
 Goerli: 0x50EED4491Eb4634E0ef53751cF280417829Db45E <br>
-Mumbai: 0x602db5f1bD188BCeF8F68190C65f87ccD3a0E11C
+Mumbai: 0x602db5f1bD188BCeF8F68190C65f87ccD3a0E11C <br>
 
 # Sample Hardhat Project
 
